@@ -1,29 +1,23 @@
-MY HUB / StudentHub Portal
+## 8. Sitemap
+
+```text
+StudentHub Portal
 │
-├── Home (index.html)
-│   ├── MY HUB Logo
-│   ├── Welcome to MY HUB
-│   ├── Home Page Image
-│   ├── Login Button
-│   └── Sign Up Button
+├── Home
 │
-├── Login (login.html)
-│   ├── Image
+├── Login
 │   ├── Username / Email
 │   ├── Password
 │   ├── Login Button
 │   └── Sign Up Link
 │
-├── Register / Sign Up (register.html)
-│   ├── Image
+├── Register
 │   ├── Email ID
 │   ├── Mobile Number
 │   ├── Password
 │   └── Sign Up Button
 │
-├── Dashboard (dashboard.html)
-│   ├── MY HUB Logo
-│   ├── Dashboard
+├── Dashboard
 │   ├── Time Table
 │   ├── Study Material
 │   ├── Assignments
@@ -34,18 +28,15 @@ MY HUB / StudentHub Portal
 │   ├── Contact Us
 │   └── Logout
 │
-├── Profile (profile.html)
+├── Profile
 │   ├── Student Photo
 │   ├── Student Name
 │   ├── Student ID
 │   ├── Email
 │   ├── Mobile Number
-│   ├── Date of Birth
-│   ├── Address
-│   ├── Department
 │   └── Edit Profile
 │
-├── Study Material (courses.html)
+├── Study Material
 │   ├── Course / Material 1
 │   ├── Course / Material 2
 │   ├── Course / Material 3
@@ -53,52 +44,32 @@ MY HUB / StudentHub Portal
 │   ├── Course / Material 5
 │   └── Course / Material 6
 │
-├── Time Table (attendance.html)
-│   ├── Time Table
+├── Time Table
 │   ├── Days
 │   ├── Time Slots
 │   ├── Subjects
 │   └── Class Schedule
 │
-├── Assignments (assignment.html)
+├── Assignments
 │   ├── Assignment List
 │   ├── Subject
 │   ├── Assignment Title
 │   ├── Due Date
 │   ├── Assignment Status
-│   ├── View Assignment
 │   └── Submit Assignment
 │
-├── Results (result.html)
-│   ├── Student Name
-│   ├── Student ID
-│   ├── Department
-│   ├── Semester
+├── Results
+│   ├── Student Details
 │   ├── Subject
-│   ├── Internal Marks
-│   ├── External Marks
-│   ├── Total Marks
+│   ├── Marks
 │   └── Grade
 │
-├── About Us (about.html)
-│   ├── About University
-│   ├── University Information
-│   ├── Centres & Cells
-│   ├── Examination Cell
-│   ├── National Service Scheme (NSS)
-│   ├── Equal Opportunity Cell
-│   ├── Student's Grievance Redressal Cell
-│   ├── Innovation & Incubation Centre
-│   └── Training & Placement Cell
+├── About Us
+│   ├──Information About Student Hub Portal
 │
-└── Contact Us (contact.html)
+└── Contact Us
     ├── Full Name
     ├── Email
     ├── Subject
     ├── Message
-    ├── Send Message
     └── Contact Information
-        ├── Address
-        ├── Email
-        ├── Phone Number
-        └── Office Timing
